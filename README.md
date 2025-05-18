@@ -8,3 +8,25 @@ Code for the paper **"Action Flow Matching for Continual Robot Learning"** prese
 ![Overview](./assets/overview.jpg)
 
 AFM enables efficient, non-episodic, online robot model refinement. AFM adjusts the planned actions seeking to reduce the gap between the intended and realized consequences of the action.
+
+
+## Citation
+
+If you use this code, please cite our paper:
+
+```bibtex
+@article{murillogonzalez2025afm,
+  title={Action Flow Matching for Continual Robot Learning},
+  author={Murillo-Gonzalez, Alejandro and Liu, Lantao},
+  journal={Robotics: Science and Systems (RSS)},
+  year={2025}
+}
+```
+
+## Contact
+
+For questions or issues, please contact:
+
+* Alejandro Murillo-Gonzalez: [almuri@iu.edu](mailto:almuri@iu.edu)
+
+Feel free to open GitHub issues or pull requests for contributions.
