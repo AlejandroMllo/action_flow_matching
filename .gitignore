@@ -1,0 +1,11 @@
+# Data & Artifacts
+*.csv
+*.pt
+*.pth
+*.pickle
+
+# Cache
+__pycache__
+
+#
+results/
