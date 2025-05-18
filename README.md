@@ -1,5 +1,10 @@
-# Action Flow Matching
+# Action Flow Matching (AFM)
 
-Code for the paper **'Efficient Online Model Refinement via Action Flow Matching'** presented at RSS 2025. 
+Code for the paper **"Action Flow Matching for Continual Robot Learning"** presented at Robotics: Science and Systems (RSS) 2025.
 
-We are currently preparing the code for public release and will make it available as soon as possible.
+[![View on RSS](https://img.shields.io/badge/Read%20Paper-RSS-blue?logo=robotics&style=flat)](https://roboticsconference.org/program/papers/26/)
+[![View on arXiv](https://img.shields.io/badge/Read%20Paper-arXiv%3A2504.18471-red?logo=arxiv&style=flat)](https://arxiv.org/abs/2504.18471)
+
+![Overview](./assets/overview.jpg)
+
+AFM enables efficient, non-episodic, online robot model refinement. AFM adjusts the planned actions seeking to reduce the gap between the intended and realized consequences of the action.
