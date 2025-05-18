@@ -2,7 +2,7 @@
 
 Code for the paper **"Action Flow Matching for Continual Robot Learning"** presented at Robotics: Science and Systems (RSS) 2025.
 
-[![View on RSS](https://img.shields.io/badge/Read%20Paper-RSS-blue?logo=robotics&style=flat)](https://roboticsconference.org/program/papers/26/)
+[![View on RSS](https://img.shields.io/badge/Read%20Paper-RSS%202025-blue?logo=robotics&style=flat)](https://roboticsconference.org/program/papers/26/)
 [![View on arXiv](https://img.shields.io/badge/Read%20Paper-arXiv%3A2504.18471-red?logo=arxiv&style=flat)](https://arxiv.org/abs/2504.18471)
 [![View on Hugging Face](https://img.shields.io/badge/Data%20%26%20Models-Hugging%20Face-yellow?logo=huggingface&style=flat)](https://huggingface.co/AlejandroMllo/action_flow_matching)
 
