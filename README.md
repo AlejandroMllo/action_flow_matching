@@ -8,7 +8,7 @@ Code for the paper **"Action Flow Matching for Continual Robot Learning"** prese
 
 ![Overview](./assets/overview.jpg)
 
-AFM enables efficient, non-episodic, online robot model refinement. AFM adjusts the planned actions seeking to reduce the gap between the intended and realized consequences of the action.
+AFM enables efficient, non-episodic, online robot model refinement. AFM adjusts the planned actions seeking to reduce the gap between the intended and realized state transitions.
 
 
 ## Citation
