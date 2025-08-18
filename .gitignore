@@ -9,3 +9,7 @@ __pycache__
 
 #
 results/
+
+# Keep
+!ethz_0.05wpts_1.csv
+!ethz_0.05wpts_2.csv
